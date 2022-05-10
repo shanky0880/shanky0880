@@ -1,5 +1,15 @@
 ### Hi there 👋
+Feel free to connect with me through LinkedIn or Email , I am currently working on Flutter ( Mobile & Web Application development ) as a role of software developer in Techdock Labs . 
 
+Made few projects on Image processing, object detection ,face recognition, QR code scanner, virtual assistant etc ... on A.I using python.
+
+You can have a look on my projects they're uploaded on YouTube .
+
+link : https://linktr.ee/learninnovation
+email : hjaiswal453@gmail.com
+linkedin : https://www.linkedin.com/in/shashank-jaiswal-b424b419b/
+
+Thank you
 <!--
 **shanky0880/shanky0880** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
